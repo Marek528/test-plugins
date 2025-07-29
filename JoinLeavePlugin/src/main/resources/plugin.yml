@@ -1,0 +1,4 @@
+name: JoinLeavePlugin
+version: '1.0-SNAPSHOT'
+main: me.asta.joinLeavePlugin.JoinLeavePlugin
+api-version: '1.21'
