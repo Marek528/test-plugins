@@ -1,0 +1,11 @@
+name: SpawnPlugin
+version: '1.0-SNAPSHOT'
+main: me.asta.spawnPlugin.SpawnPlugin
+api-version: '1.21'
+commands:
+  setspawn:
+    description: Set spawn location exactly where you standing
+    usage: /<command>
+  spawn:
+    description: Teleports you to the spawn
+    usage: /<command>
