@@ -1,0 +1,8 @@
+name: PlayerMenu
+version: '1.0-SNAPSHOT'
+main: me.asta.playerMenu.PlayerMenu
+api-version: '1.21'
+commands:
+  menu:
+    description: Simple menu for feed, death, obtaining sword
+    usage: /<command>
