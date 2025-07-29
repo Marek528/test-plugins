@@ -1,0 +1,15 @@
+name: TeleportBowPlugin
+version: '1.0-SNAPSHOT'
+main: me.asta.teleportBowPlugin.TeleportBowPlugin
+api-version: '1.21'
+commands:
+  gettpbow:
+    description: Special bow that teleports you wherever you shoot
+    aliases:
+      - tpbow
+    permission: tp-bow.get-bow
+    usage: /<command>
+permissions:
+  tp-bow.get-bow:
+    description: Allows you to obtain Teleport Bow
+    default: op

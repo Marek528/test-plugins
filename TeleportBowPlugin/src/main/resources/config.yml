@@ -1,0 +1,5 @@
+tpBow-name: "&5&lTeleport&2&lBow"
+tpBow-description: "&dTeleports you anywhere you shoot. Choice is yours!"
+
+tpBow-teleportMsg: "&aSwoosh!"
+tpBow-teleportMsg-enable: true
