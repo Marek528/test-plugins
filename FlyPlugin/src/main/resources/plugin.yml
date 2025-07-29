@@ -1,0 +1,17 @@
+name: FlyPlugin
+version: '1.0-SNAPSHOT'
+main: me.asta.flyPlugin.FlyPlugin
+api-version: '1.21'
+commands:
+  fly:
+    description: Ability to fly (even in survival)
+    permission: flyplugin.fly
+    usage: /<command> [player]
+
+permissions:
+  flyplugin.fly:
+    description: Allows you to use fly command
+    default: op
+  flyplugin.others:
+    description: Allows you to use fly command on other players
+    default: op
