@@ -1,0 +1,37 @@
+mainMenu-title: '&9&lArmor Stand GUI'
+createMenu-title: '&2Create a Armor Stand'
+confirmMenu-title: '&aConfirm Option'
+armorMenu-title: '&1Choose some armor'
+armorChoice-title: '&3Choose Material'
+
+create:
+  create-name: '&6Create'
+  create-lore: '&5Creates a new armor stand'
+
+close:
+  close-name: '&c&lClose Menu'
+
+create-menu:
+  arms-name: '&eArms'
+  glow-name: '&kAbAb &b&oGlow &kAbAb'
+  armor-name: '&3Armor'
+  base-name: '&6Base'
+  complete-name: '&a&lCOMPLETE & CREATE'
+  cancel-name: '&4&lCANCEL'
+
+confirm-menu:
+  arms-name: '&eGive Arms?'
+  glow-name: '&b&oAdd Glow?'
+  base-name: '&6Add Base?'
+  yes-dsName: '&a&lYES'
+  no-dsName: '&c&lNO'
+
+armor-menu:
+  helmet-name: '&lHELMET'
+  chest-name: '&lCHESTPLATE'
+  legs-name: '&lLEGGINGS'
+  boots-name: '&lBOOTS'
+  confirm-name: '&a&lDONE'
+
+armor-choice:
+  noArmor-name: '&lNONE'

@@ -1,0 +1,10 @@
+name: ArmorStandGUI
+version: '1.0-SNAPSHOT'
+main: me.asta.armorStandGUI.ArmorStandGUI
+api-version: '1.21'
+commands:
+  menuAS:
+    description: Opens ArmorStandGUI menu
+    usage: /<command>
+    aliases:
+      - as
