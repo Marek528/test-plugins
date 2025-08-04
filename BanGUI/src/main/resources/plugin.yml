@@ -1,0 +1,8 @@
+name: BanGUI
+version: '1.0-SNAPSHOT'
+main: me.asta.banGUI.BanGUI
+api-version: '1.21'
+commands:
+  bangui:
+    description: 'Simple Ban GUI'
+    usage: '/<command>'
