@@ -1,0 +1,14 @@
+name: RandomTeleportPlugin
+version: '1.0-SNAPSHOT'
+main: me.asta.randomTeleportPlugin.RandomTeleportPlugin
+api-version: '1.21'
+commands:
+  rtp:
+    description: 'Teleports you to random location'
+    permission: 'rtp.others'
+    usage: '/<command> <player>'
+
+permissions:
+  rtp.others:
+    description: 'Allows you to teleport players to random location'
+    default: op

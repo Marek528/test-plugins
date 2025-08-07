@@ -1,0 +1,4 @@
+# true if you want to limit, how far it teleports players
+world-border: true
+# how many blocks from spawn they can spawn (now will)
+border: 1000 # if world-border is false, then limit is automatically 10 000 blocks
